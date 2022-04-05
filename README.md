@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mark-peacock-2021
 - 👀 I’m interested in Software Engineering and Data Science.
-- 🌱 I’m currently studying Computer Science at Plymouth University.
+- 🌱 I’m currently studying Computer Science at the University of Plymouth.
 
 
 
