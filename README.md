@@ -1,6 +1,6 @@
 - 👋 Hi I’m Mark Peacock,
 
-- I’m currently in my first year, studying Computer Science at the University of Plymouth.
+- I’m currently studying Computer Science at the University of Plymouth.
 
 - I’m interested in Software Engineering and Data Science
 
