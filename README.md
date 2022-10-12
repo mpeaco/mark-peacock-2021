@@ -4,7 +4,7 @@
 
 - I’m interested in Software Engineering and Data Science
 
-- Uni and personal projects 💻
+- Uni projects 💻 Personal @Ocaepkram
 
 <!---
 mark-peacock-2021/mark-peacock-2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
